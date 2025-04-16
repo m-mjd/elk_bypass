@@ -1,2 +1,2 @@
-# elk_evasion
+# elk_bypass
 Elastic Agent Malware Bypass Project
